@@ -1,2 +1,2 @@
 local amogus = "sussy baka"
-print("amogus")
+print(amogus)
