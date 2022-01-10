@@ -1,2 +1,1 @@
-local amogus = "sussy baka"
-print(amogus)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ixzy/akenohub/main/AkenoHub.lua"))()
