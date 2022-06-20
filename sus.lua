@@ -1,1 +1,9 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ixzy/akenohub/main/AkenoHub.lua"))()
+local sus = game.Players.LocalPlayer
+game:GetService("StarterGui"):SetCore(
+        "SendNotification",
+        {
+            Title = 'S',
+            Text = 'Us',
+            Duration = 99
+        }
+    )
